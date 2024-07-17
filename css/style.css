@@ -267,6 +267,11 @@ section{
     text-align: center;
 }
 
+
+.social-media-wrapper{
+    margin-top: 8px;
+}
+
 .social-media-list{
     display: flex;
     justify-content: center;
